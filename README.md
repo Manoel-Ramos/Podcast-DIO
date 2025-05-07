@@ -1,4 +1,4 @@
-![Cover](https://github.com/Manoel-Ramos/Podcast-DIO/tree/main/assets?raw=true)
+![Cover]https://github.com/Manoel-Ramos/Podcast-DIO/blob/main/assets/cover.png?raw=true)
 
 
 =======
