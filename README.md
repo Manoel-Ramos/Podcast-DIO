@@ -1,4 +1,5 @@
-<<<<<<< HEAD
+![Cover](assert/Cover.png)
+
 =======
 # 🎙️ Educação 4.0: IA Transformando o Ensino
 
