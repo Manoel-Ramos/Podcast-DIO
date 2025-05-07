@@ -1,4 +1,4 @@
-![Cover](assert/Cover.png)
+![Cover](https://github.com/Manoel-Ramos/Podcast-DIO/tree/main/assets)
 
 =======
 # 🎙️ Educação 4.0: IA Transformando o Ensino
