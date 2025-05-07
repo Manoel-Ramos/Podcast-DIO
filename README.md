@@ -1,7 +1,8 @@
-![Cover](https://github.com/Manoel-Ramos/Podcast-DIO/blob/main/assets/cover.png?raw=true)
 
+<p align="center">
+  <img src="https://github.com/Manoel-Ramos/Podcast-DIO/blob/main/assets/cover.png?raw=true" width="600">
+</p>
 
-=======
 # 🎙️ Educação 4.0: IA Transformando o Ensino
 
 Bem-vindo ao nosso podcast **Educação 4.0: IA Transformando o Ensino**!  
@@ -68,6 +69,4 @@ A IA será um **impulsionador do aprendizado** ou um **desafio a ser superado**?
 
 ## 📡 Ouça o episódio
 
-
->>>>>>> 7f28561 (meu primeiro projeto)
 # Podcast-DIO
