@@ -57,16 +57,16 @@ A IA será um **impulsionador do aprendizado** ou um **desafio a ser superado**?
 
 ---
 
-## 📎 Imagem do Episódio
+## 📎 Tecnologias utilizadas no projeto
 
-![Capa do episódio](./capa-podcast-educacao-4.0.png)
+- ChatGPT
+- MidJourney
+- ElevenLabs
 
 ---
 
 ## 📡 Ouça o episódio
 
-🎧 *Adicione aqui o link do seu episódio no Spotify, YouTube ou outra plataforma quando estiver disponível.*
 
----
 >>>>>>> 7f28561 (meu primeiro projeto)
 # Podcast-DIO
