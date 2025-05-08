@@ -65,8 +65,7 @@ A IA será um **impulsionador do aprendizado** ou um **desafio a ser superado**?
 - MidJourney
 - ElevenLabs
 
-  
-🎧 [Ouça o podcast aqui](https://github.com/Manoel-Ramos/Podcast-DIO/blob/main/output/Podcast.mp3?raw=true)
+
 
 
 
