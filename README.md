@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/Manoel-Ramos/Podcast-DIO/blob/main/assets/cover.png?raw=true" width="600">
+  <img src="https://github.com/Manoel-Ramos/Podcast-DIO/blob/main/assets/cover.png?raw=true" width="500">
 </p>
 
 # 🎙️ Educação 4.0: IA Transformando o Ensino
@@ -65,12 +65,7 @@ A IA será um **impulsionador do aprendizado** ou um **desafio a ser superado**?
 - MidJourney
 - ElevenLabs
 
----
 
-## 📡 Ouça o episódio
-<p align="center">
-  <a href="https://github.com/Manoel-Ramos/Podcast-DIO/blob/main/output/Podcast.mp3?raw=true">
-    <img src="https://github.com/Manoel-Ramos/Podcast-DIO/blob/main/assets/cover.png?raw=true" width="100">
-  </a>
-</p>
+
+
 
