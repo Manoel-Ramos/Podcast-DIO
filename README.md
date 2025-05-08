@@ -68,5 +68,9 @@ A IA será um **impulsionador do aprendizado** ou um **desafio a ser superado**?
 ---
 
 ## 📡 Ouça o episódio
+<p align="center">
+  <a href="https://github.com/Manoel-Ramos/Podcast-DIO/blob/main/output/Podcast.mp3?raw=true">
+    <img src="https://github.com/Manoel-Ramos/Podcast-DIO/blob/main/assets/cover.png?raw=true" width="100">
+  </a>
+</p>
 
-# Podcast-DIO
